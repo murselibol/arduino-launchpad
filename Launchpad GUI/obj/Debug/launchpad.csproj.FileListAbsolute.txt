@@ -1,0 +1,15 @@
+C:\Users\VedFI\source\repos\launchpad\bin\Debug\launchpad.exe.config
+C:\Users\VedFI\source\repos\launchpad\bin\Debug\launchpad.exe
+C:\Users\VedFI\source\repos\launchpad\bin\Debug\launchpad.pdb
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.csprojAssemblyReference.cache
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.Form1.resources
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.Properties.Resources.resources
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.csproj.GenerateResource.cache
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.csproj.CoreCompileInputs.cache
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.exe
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.pdb
+C:\Users\VedFI\source\repos\launchpad\bin\Debug\Interop.WMPLib.dll
+C:\Users\VedFI\source\repos\launchpad\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\Interop.WMPLib.dll
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\VedFI\source\repos\launchpad\obj\Debug\launchpad.csproj.ResolveComReference.cache
